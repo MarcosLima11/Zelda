@@ -9,6 +9,8 @@ public:
 
     void print( ) const;
 
+    void atacar( );
+
 private:
 
     double strength;
